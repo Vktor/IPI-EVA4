@@ -1,0 +1,23 @@
+article{
+width: 500px;
+height: 200px;
+margin: 0 auto;
+margin-top: 10px; 
+font: 16px Helvetica, Arial, sans-serif;
+}
+body{
+	background-color: #d3d2d2;
+	font: bold 12px Helvetica, Arial, sans-serif;
+}
+
+#menu , #Gmapa{
+	margin-bottom: 50px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	border: solid 1px blue;
+	background-color: white;
+	padding-top: 20px;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+	font: bold 15px Helvetica, Arial, sans-serif;
+}
